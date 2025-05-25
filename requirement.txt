@@ -1,0 +1,13 @@
+# Machine Learning & Data Processing
+scikit-learn
+pandas
+numpy
+
+# Web Automation & UI
+selenium
+streamlit
+altair
+
+# Deep Learning & NLP
+torch
+transformers
